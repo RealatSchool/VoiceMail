@@ -1,0 +1,12 @@
+{
+    "name" : "VoiceMail",
+    "version" : "0.0.1",
+    "description" : "A voice mail bot for discord",
+    "keywords" : ["discord","voice","phone","voice mail"],
+    "main" : "voicemail.js",
+    "author" : "RealAwesomeness",
+    "dependencies" : {
+        "discord.io" : "*",
+        "winston" : "*"
+    }
+}
