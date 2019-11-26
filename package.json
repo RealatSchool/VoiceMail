@@ -7,6 +7,8 @@
     "author" : "RealAwesomeness",
     "dependencies" : {
         "discord.io" : "*",
-        "winston" : "*"
+        "winston" : "*",
+        "node-opus" : "*",
+        "sodium" : "*"
     }
 }
